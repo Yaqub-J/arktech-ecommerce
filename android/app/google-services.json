@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638408158739",
+    "project_id": "arktechplus",
+    "storage_bucket": "arktechplus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638408158739:android:264faeb27e52a483be59e6",
+        "android_client_info": {
+          "package_name": "com.arktechng.ng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3B8qRRMWYmElBg9SCsbIjiixUmWRe16Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638408158739:android:22f3458af0af1d52be59e6",
+        "android_client_info": {
+          "package_name": "com.mycompany.ffenterpriseecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3B8qRRMWYmElBg9SCsbIjiixUmWRe16Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
